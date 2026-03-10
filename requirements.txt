@@ -8,9 +8,3 @@ faiss-cpu
 pypdf
 sentence-transformers
 requests
-
-Strimlit
-[groq]
-api_key = &quot;AQUI_PEGA_TU_API_KEY_REAL_DE_GROQ&quot;
-groq
-Api key
